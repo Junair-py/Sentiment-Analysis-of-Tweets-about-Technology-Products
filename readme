@@ -1,0 +1,35 @@
+Análise de Tendências de Popularidade de Linguagens de Programação
+Contexto
+Este projeto visa explorar e analisar a evolução da popularidade das linguagens de programação Python, Java e C++ ao longo do tempo. Utilizando dados históricos de popularidade extraídos do arquivo CSV trend_over_time.csv, cobrimos o período de abril de 2019 a abril de 2024.
+
+Problemática
+A problemática central deste estudo é entender como as linguagens de programação Python, Java e C++ têm se comportado em termos de popularidade ao longo do tempo. O foco está em identificar padrões sazonais, tendências de longo prazo, e comparações entre as linguagens em diferentes períodos.
+
+Questões a Serem Respondidas
+Qual foi a tendência de popularidade de cada linguagem de programação ao longo do tempo?
+
+Analisaremos como a popularidade de Python, Java e C++ evoluiu durante o período em questão.
+Existe alguma sazonalidade nas tendências de popularidade?
+
+Avaliaremos se existem padrões sazonais que influenciam a popularidade dessas linguagens.
+Qual é a linguagem de programação mais popular em diferentes períodos de tempo?
+
+Compararemos a popularidade das três linguagens para identificar qual foi mais popular em diferentes intervalos de tempo.
+Existe uma tendência de longo prazo para o aumento ou diminuição da popularidade de cada linguagem?
+
+Analisaremos se há uma tendência clara de aumento ou diminuição na popularidade de cada linguagem ao longo dos anos.
+Dados
+Os dados estão contidos no arquivo trend_over_time.csv, que inclui informações mensais sobre a popularidade das linguagens de programação. O dataset abrange os seguintes aspectos:
+
+Data: Mês e ano da observação.
+Python: Indicador de popularidade da linguagem Python.
+Java: Indicador de popularidade da linguagem Java.
+C++: Indicador de popularidade da linguagem C++.
+Metodologia
+A metodologia inclui as seguintes etapas:
+
+Carregamento e Limpeza dos Dados: Importação e preparação dos dados para análise.
+Análise Exploratória de Dados (EDA): Exploração visual e estatística dos dados para entender padrões e anomalias.
+Análise de Tendências e Sazonalidades: Uso de técnicas estatísticas para identificar tendências e padrões sazonais.
+Comparação de Popularidade: Comparação da popularidade entre as linguagens de programação.
+Conclusões e Recomendações: Resumo dos insights obtidos e sugestões para estudos futuros.
